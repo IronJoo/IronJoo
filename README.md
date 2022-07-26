@@ -11,7 +11,7 @@ At ISCTE, I am undergoing an intensive 6-month Java programming course + interns
 
 
 
-🌱 Check out one my favorite creative projects I got to work on: <a href="https://github.com/IronJoo/Rogue_UPskill2022_v1_Joana_Ferro">Rogue</a>
+<h2>🌱 Check out one my favorite creative projects I got to work on: <a href="https://github.com/IronJoo/Rogue_UPskill2022_v1_Joana_Ferro">Rogue</a></h2>
 
 <img align='right' src="https://i.imgur.com/mUufNCC.png" width=370>
 
