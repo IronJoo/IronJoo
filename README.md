@@ -9,19 +9,19 @@ At ISCTE, I am undergoing an intensive 6-month Java programming course + interns
 - Principles of software development
 - Programming lab
 
-Check out one my favorite creative projects I got to work on: <a href="https://github.com/IronJoo/Rogue_UPskill2022_v1_Joana_Ferro">Rogue</a>
+🌱 Check out one my favorite creative projects I got to work on: <a href="https://github.com/IronJoo/Rogue_UPskill2022_v1_Joana_Ferro">Rogue</a>
 
-<img src="https://i.imgur.com/mUufNCC.png">
+<img align='right' src="https://i.imgur.com/mUufNCC.png" width=370>
 
 This is a rogue-like game that features the following:
--Multiple rooms
--Enemies that follow the hero when close
--Randomly generated traps and grass on the floor
--Traps cause damage
--Picked up items are added to the hero's inventory, up to a maximum of three
--Health bar dynamically displays the hero's health
--Locked doors can only be opened with a specific key
--Descriptive status messages at the bottom of the page give insights of what's occuring in the game
+- Multiple rooms
+- Enemies that follow the hero when close
+- Randomly generated traps and grass on the floor
+- Traps cause damage
+- Picked up items are added to the hero's inventory, up to a maximum of three
+- Health bar dynamically displays the hero's health
+- Locked doors can only be opened with a specific key
+- Descriptive status messages at the bottom of the page give insights of what's occuring in the game
 
 
 - 🌱 I’m currently learning <b>threads</b>
