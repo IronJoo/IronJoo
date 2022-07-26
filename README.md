@@ -1,18 +1,29 @@
 ### Hi there 👋
 
-I am Joana and I am a Java trainee at ISCTE - Instituto Universitário de Lisboa through the <a href="https://upskill.pt/" target="blank">UpSkill - Digital Skills & Jobs</a> program.
+I am Joana and I am a Java trainee at ISCTE - Instituto Universitário de Lisboa through the program <a href="https://upskill.pt/" target="blank">UpSkill - Digital Skills & Jobs</a>. I am simultaneously attending <a href="https://www.42lisboa.com/">42 Lisboa</a> where I study C language.
 
-<!--
-**IronJoo/IronJoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+At ISCTE, I am undergoing an intensive 6-month Java programming course + internship which includes the following modules:
+-Java programming language (completed)
+-Database concepts and structures (completed)
+<b>-Concurrent programming (in progress)</b>
+-Principles of software development
+-Programming lab
 
-Here are some ideas to get you started:
+Check out one my favorite creative projects in I got to work on: <a href="https://github.com/IronJoo/Rogue_UPskill2022_v1_Joana_Ferro">Rogue</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://prnt.sc/2t29fpTsSh2p">
+
+This is a rogue-like game that features the following:
+-Multiple rooms
+-Enemies that follow the hero when close
+-Randomly generated traps and grass on the floor
+-Traps cause damage
+-Picked up items are added to the hero's inventory, up to a maximum of three
+-Health bar dynamically displays the hero's health
+-Locked doors can only be opened with a specific key
+-Descriptive status messages at the bottom of the page give insights of what's occuring in the game
+
+
+- 🌱 I’m currently learning <b>threads</b>
+- 📫 Check me out on LinkedIn <a href="https://www.linkedin.com/in/joana-ferro-569556187/">here</a>
+- ⚡ Fun fact: I am a language enthusiast and love traveling solo
