@@ -9,9 +9,9 @@ At ISCTE, I am undergoing an intensive 6-month Java programming course + interns
 -Principles of software development
 -Programming lab
 
-Check out one my favorite creative projects in I got to work on: <a href="https://github.com/IronJoo/Rogue_UPskill2022_v1_Joana_Ferro">Rogue</a>
+Check out one my favorite creative projects I got to work on: <a href="https://github.com/IronJoo/Rogue_UPskill2022_v1_Joana_Ferro">Rogue</a>
 
-<img src="https://prnt.sc/2t29fpTsSh2p">
+<img src="https://i.imgur.com/mUufNCC.png">
 
 This is a rogue-like game that features the following:
 -Multiple rooms
