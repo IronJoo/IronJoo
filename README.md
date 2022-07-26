@@ -3,11 +3,11 @@
 I am Joana and I am a Java trainee at ISCTE - Instituto Universitário de Lisboa through the program <a href="https://upskill.pt/" target="blank">UpSkill - Digital Skills & Jobs</a>. I am simultaneously attending <a href="https://www.42lisboa.com/">42 Lisboa</a> where I study C language.
 
 At ISCTE, I am undergoing an intensive 6-month Java programming course + internship which includes the following modules:
--Java programming language (completed)
--Database concepts and structures (completed)
-<b>-Concurrent programming (in progress)</b>
--Principles of software development
--Programming lab
+- Java programming language (completed)
+- Database concepts and structures (completed)
+<b>- Concurrent programming (in progress)</b>
+- Principles of software development
+- Programming lab
 
 Check out one my favorite creative projects I got to work on: <a href="https://github.com/IronJoo/Rogue_UPskill2022_v1_Joana_Ferro">Rogue</a>
 
