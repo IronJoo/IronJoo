@@ -27,4 +27,4 @@ This is a rogue-like game that features the following:
 
 Check out my other test-driven development project in Java <a href='https://github.com/IronJoo/FinanceManager_UPskill2022_v1_Joana_Ferro'>here</a>.
 
-Check out my projects at 42 Lisboa <a href='https://github.com/IronJoo/42-libft'>here</a> (an alternate C library) and <a href='https://github.com/IronJoo/get_next_line'>here</a> (a function that reads a line from a file and stores the remained in a buffer until the next function call).
+Check out my projects at 42 Lisboa <a href='https://github.com/IronJoo/42-libft'>here</a> (an alternate C library) and <a href='https://github.com/IronJoo/get_next_line'>here</a> (a function that reads a line from a text file and stores the remainder in a buffer until the next function call).
