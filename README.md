@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Joana and I am a Java trainee at ISCTE - Instituto Universitário de Lisboa through the <a href="https://upskill.pt/" target="blank">UpSkill - Digital Skills & Jobs</a> program.
+
 <!--
 **IronJoo/IronJoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
