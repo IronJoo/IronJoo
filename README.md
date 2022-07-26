@@ -5,9 +5,11 @@ I am Joana and I am a Java trainee at ISCTE - Instituto Universitário de Lisboa
 At ISCTE, I am undergoing an intensive 6-month Java programming course + internship which includes the following modules:
 - Java programming language (completed)
 - Database concepts and structures (completed)
-<b>- Concurrent programming (in progress)</b>
+- <b>Concurrent programming (in progress)</b>
 - Principles of software development
 - Programming lab
+
+
 
 🌱 Check out one my favorite creative projects I got to work on: <a href="https://github.com/IronJoo/Rogue_UPskill2022_v1_Joana_Ferro">Rogue</a>
 
@@ -21,9 +23,8 @@ This is a rogue-like game that features the following:
 - Picked up items are added to the hero's inventory, up to a maximum of three
 - Health bar dynamically displays the hero's health
 - Locked doors can only be opened with a specific key
-- Descriptive status messages at the bottom of the page give insights of what's occuring in the game
+- Descriptive status messages at the bottom of the page give insights of what's occurring in the game
 
+Check out my other test-driven development project in Java <a href='https://github.com/IronJoo/FinanceManager_UPskill2022_v1_Joana_Ferro'>here</a>
 
-- 🌱 I’m currently learning <b>threads</b>
-- 📫 Check me out on LinkedIn <a href="https://www.linkedin.com/in/joana-ferro-569556187/">here</a>
-- ⚡ Fun fact: I am a language enthusiast and love traveling solo
+Check out my projects at 42 Lisboa <a href='https://github.com/IronJoo/42-libft'>here</a> (an alternate C library) and <a href='https://github.com/IronJoo/get_next_line'>here</a> (a function that reads a line from a file and stores the remained in a buffer until the next function call)
