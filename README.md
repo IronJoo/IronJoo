@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Joana and I am a Java trainee at ISCTE - Instituto Universitário de Lisboa through the program <a href="https://upskill.pt/" target="blank">UpSkill - Digital Skills & Jobs</a>. I am simultaneously attending <a href="https://www.42lisboa.com/">42 Lisboa</a> where I study C language.
+<h2>I am Joana and I am a Java trainee at ISCTE - Instituto Universitário de Lisboa through the program <a href="https://upskill.pt/" target="blank">UpSkill - Digital Skills & Jobs</a>. I am simultaneously attending <a href="https://www.42lisboa.com/">42 Lisboa</a> where I study C language.</h2>
 
 At ISCTE, I am undergoing an intensive 6-month Java programming course + internship which includes the following modules:
 - Java programming language (completed)
