@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3>I am Joana and I am a Java trainee at ISCTE - Instituto Universitário de Lisboa through the program <a href="https://upskill.pt/" target="blank">UpSkill - Digital Skills & Jobs</a>. I am simultaneously attending <a href="https://www.42lisboa.com/">42 Lisboa</a> where I study C language.</h3>
+<h3>I am Joana and I am a Java trainee at ISCTE - Instituto Universitário de Lisboa through the <a href="https://upskill.pt/" target="blank">UpSkill - Digital Skills & Jobs</a> program. I am simultaneously attending <a href="https://www.42lisboa.com/">42 Lisboa</a> where I study C language.</h3>
 
 At ISCTE, I am undergoing an intensive 6-month Java programming course + internship which includes the following modules:
 - Java programming language (completed)
@@ -22,7 +22,7 @@ This is a rogue-like game that features the following:
 - Traps cause damage
 - Picked up items are added to the hero's inventory, up to a maximum of three
 - Health bar dynamically displays the hero's health
-- Locked doors can only be opened with a specific key
+- Locked doors can only be opened with the corresponding key
 - Descriptive status messages at the bottom of the page give insights of what's occurring in the game
 
 Check out my other test-driven development project in Java <a href='https://github.com/IronJoo/FinanceManager_UPskill2022_v1_Joana_Ferro'>here</a>.
