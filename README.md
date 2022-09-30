@@ -6,7 +6,7 @@ At ISCTE, I am undergoing an intensive 6-month Java programming course + interns
 - Java programming language (completed)
 - Database concepts and structures (completed)
 - Concurrent programming (completed)
-- Principles of software development
+- Principles of software development (completed)
 - <b>Programming lab (in progress)</b>
 
 
